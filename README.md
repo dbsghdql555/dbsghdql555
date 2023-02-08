@@ -16,7 +16,7 @@
 
 <div align="right">
   
-<img align = "left" src="http://mazandi.herokuapp.com/api?handle=dbsghdql555&theme=warm"/>
+<img align = "right" src="http://mazandi.herokuapp.com/api?handle=dbsghdql555&theme=warm"/>
   
 ### 💐 About me 💐
 <hr>
