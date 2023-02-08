@@ -1,6 +1,6 @@
 ![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/72931375/216500004-13d60fd9-bc85-49cc-84ea-a71098fe51e9.png)
 
-<div align="left" >
+<div align="right" >
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbsghdql555&layout=compact">
 
 # 📕 Learning Stack 📕
